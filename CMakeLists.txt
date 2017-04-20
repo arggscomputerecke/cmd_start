@@ -14,7 +14,7 @@ SET(CMAKE_INSTALL_PREFIX "${INSTALL_PREFIX}" CACHE INTERNAL "Prefix prepended to
   
 ADD_SUBDIRECTORY(start_cmd)
 ADD_SUBDIRECTORY(start_ssh)
-
+ADD_SUBDIRECTORY(start_powershell)
 
 
 
